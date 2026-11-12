@@ -1,0 +1,17 @@
+{
+  "duration": 1494,
+  "voiceReady": true,
+  "voiceFile": "audio/narracao-final-2026.wav",
+  "voiceStart": 0,
+  "starts": [
+    0,
+    30,
+    281,
+    524,
+    608,
+    722,
+    998,
+    1434
+  ],
+  "musicOffsetSeconds": 10
+}

@@ -1,0 +1,48 @@
+{
+  "file": "entrega/Sportsmatch-Instaplaysss-SerieB2026-FINAL.mp4",
+  "width": 1080,
+  "height": 1920,
+  "fps": "30/1",
+  "codec": "h264",
+  "pixelFormat": "yuvj420p",
+  "duration": 49.813,
+  "frames": 1494,
+  "audio": [
+    {
+      "codec": "aac",
+      "sampleRate": "48000",
+      "channels": 2
+    }
+  ],
+  "decodedWithoutErrors": true,
+  "loudness": {
+    "input_i": "-16.29",
+    "input_tp": "-4.50",
+    "input_lra": "1.60",
+    "input_thresh": "-26.46",
+    "output_i": "-15.95",
+    "output_tp": "-3.97",
+    "output_lra": "1.30",
+    "output_thresh": "-26.04",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.05"
+  },
+  "narrationPresent": true,
+  "listeningReview": false,
+  "note": "Final com locução fornecida e trilha mixada. Revisão visual e técnica; escuta subjetiva não disponível neste ambiente.",
+  "playback": {
+    "ended": true,
+    "currentTime": 49.813,
+    "duration": 49.813,
+    "muted": false,
+    "mutedFallback": false,
+    "totalVideoFrames": 1494,
+    "droppedVideoFrames": 1,
+    "videoWidth": 1080,
+    "videoHeight": 1920,
+    "volume": 1,
+    "subjectiveListening": false
+  },
+  "localTranscriptAvailable": "review/final-export-transcript.json",
+  "subjectiveListening": false
+}

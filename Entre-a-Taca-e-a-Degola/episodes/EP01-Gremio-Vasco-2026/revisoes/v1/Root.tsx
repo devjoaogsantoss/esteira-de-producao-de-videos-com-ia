@@ -1,0 +1,1 @@
+import React from 'react';import {Still} from 'remotion';import {Screen} from '../shared/Screen';export const Root=()=> <Still id="EP01-Telas-Aprovacao" component={Screen} width={1080} height={1920} defaultProps={{screen:0}}/>;

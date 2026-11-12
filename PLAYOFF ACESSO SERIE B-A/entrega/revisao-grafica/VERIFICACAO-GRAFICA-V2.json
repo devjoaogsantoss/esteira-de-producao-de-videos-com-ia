@@ -1,0 +1,134 @@
+{
+  "file": "entrega/revisao-grafica/Sportsmatch-SerieB2026-GRAFICA-V2.mp4",
+  "codec": "h264",
+  "width": 1080,
+  "height": 1920,
+  "fps": "30/1",
+  "frames": 1494,
+  "duration": 49.813,
+  "decodedWithoutErrors": true,
+  "approvedAudioBitstreamSha256": "SHA256=c19ef1a3a339eed70ba5a5d6cd390d042713e891a7ba67e6bd4dba55847df5cc",
+  "revisedAudioBitstreamSha256": "SHA256=c19ef1a3a339eed70ba5a5d6cd390d042713e891a7ba67e6bd4dba55847df5cc",
+  "approvedAudioCopiedExactly": true,
+  "approvedMixFileUnchanged": true,
+  "layoutAuditedStates": 37,
+  "safeAreaViolations": 0,
+  "textInkOverlaps": 0,
+  "loudness": {
+    "input_i": "-16.29",
+    "input_tp": "-4.50",
+    "input_lra": "1.60",
+    "input_thresh": "-26.46",
+    "output_i": "-15.95",
+    "output_tp": "-3.97",
+    "output_lra": "1.30",
+    "output_thresh": "-26.04",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.05"
+  },
+  "wordSync": [
+    {
+      "word": "sobem direto",
+      "audioSeconds": [
+        8.26,
+        9.2
+      ],
+      "actionFrames": [
+        248,
+        272
+      ]
+    },
+    {
+      "word": "terceiro contra sexto",
+      "audioSeconds": [
+        11.1,
+        12.56
+      ],
+      "actionFrames": [
+        333,
+        346
+      ]
+    },
+    {
+      "word": "quarto contra quinto",
+      "audioSeconds": [
+        12.94,
+        13.92
+      ],
+      "actionFrames": [
+        388,
+        401
+      ]
+    },
+    {
+      "word": "ida e volta",
+      "audioSeconds": [
+        14.16,
+        15.4
+      ],
+      "actionFrames": [
+        425,
+        436
+      ]
+    },
+    {
+      "word": "cada vencedor",
+      "audioSeconds": [
+        15.8,
+        16.64
+      ],
+      "actionFrames": [
+        474,
+        499
+      ]
+    },
+    {
+      "word": "garantiu o acesso",
+      "audioSeconds": [
+        19.16,
+        20.2
+      ],
+      "actionFrames": [
+        575,
+        594
+      ]
+    },
+    {
+      "word": "disputam",
+      "audioSeconds": [
+        22.22,
+        22.56
+      ],
+      "actionFrames": [
+        667,
+        680
+      ]
+    }
+  ],
+  "playback": {
+    "ended": true,
+    "currentTime": 49.813,
+    "duration": 49.813,
+    "muted": false,
+    "mutedFallback": false,
+    "totalVideoFrames": 1494,
+    "droppedVideoFrames": 0,
+    "videoWidth": 1080,
+    "videoHeight": 1920,
+    "volume": 1,
+    "subjectiveListening": false
+  },
+  "excerptPlayback": {
+    "ended": true,
+    "currentTime": 10.283,
+    "duration": 10.283,
+    "muted": false,
+    "mutedFallback": false,
+    "totalVideoFrames": 308,
+    "droppedVideoFrames": 0,
+    "videoWidth": 1080,
+    "videoHeight": 1920,
+    "volume": 1,
+    "subjectiveListening": false
+  }
+}

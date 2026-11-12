@@ -1,0 +1,48 @@
+{
+  "origem": "Dados fornecidos pelo usuário / Sportsmatch; atualização por mensagem de revisão das telas",
+  "recorte": "após a 34ª rodada do Brasileirão 2026",
+  "dataDeCorte": null,
+  "gremio": {
+    "posicao": 18,
+    "pontos": 37,
+    "rodadasNoZ4": 8,
+    "rodadasDaCompeticao": 34,
+    "aproveitamentoBrasileiro": 36.7,
+    "aproveitamentoCopaDoBrasil": "mais de 75%",
+    "caminhoCopaDoBrasil": [
+      {"fase": "oitavas", "adversario": "Mirassol", "status": "eliminado"},
+      {"fase": "quartas", "adversario": "Internacional", "status": "eliminado"},
+      {"fase": "semifinal", "adversario": "Atlético-MG", "status": "eliminado"},
+      {"fase": "final", "adversario": "Palmeiras", "status": "a disputar", "data": "06/12/2026", "estadio": "Mané Garrincha", "cidade": "Brasília"}
+    ],
+    "posicoesZ4": {"15": 17, "21": 17, "28": 17, "29": 18, "30": 18, "31": 18, "32": 17, "34": 18},
+    "foraZ4": "Demais rodadas; faixa descrita pelo usuário entre 12º e 16º, sem posições individuais confirmadas"
+  },
+  "vasco": {
+    "posicao": 13,
+    "pontos": 41,
+    "rodadasNoZ4": 12,
+    "rodadasDaCompeticao": 34,
+    "pontosAcima17": 4,
+    "aproveitamentoBrasileiro": 41,
+    "aproveitamentoConjuntoDasCopas": 63,
+    "copaDoBrasil": {"fase": "semifinal", "eliminadoPor": "Palmeiras"},
+    "sulAmericana": {"fase": "semifinal", "eliminadoPor": "Boca Juniors"},
+    "posicoesZ4": {"3": 17, "4": 20, "18": 17, "19": 17, "20": 18, "21": 18, "22": 18, "23": 19, "24": 19, "25": 17, "26": 17, "27": 17},
+    "saidaZ4": {"rodada": 28, "posicao": 16},
+    "foraZ4": "Demais rodadas; oscilação entre 9º e 14º descrita após a primeira saída, sem posições individuais confirmadas"
+  },
+  "classificacao34": [
+    {"posicao": 13, "clube": "Vasco", "pontos": 41},
+    {"posicao": 16, "clube": "Internacional", "pontos": 38},
+    {"posicao": 17, "clube": "Corinthians", "pontos": 37},
+    {"posicao": 18, "clube": "Grêmio", "pontos": 37},
+    {"posicao": 19, "clube": "Remo", "pontos": 29},
+    {"posicao": 20, "clube": "Chapecoense", "pontos": 21}
+  ],
+  "visualizacao": {
+    "foraZ4": "Traço esquemático tracejado em faixa sem posições numeradas, conforme simulação autorizada pelo usuário",
+    "movimentoTabela": "Demonstração gráfica da queda do Grêmio 16º→18º e da subida do Vasco 16º→13º; pontos são os do recorte final, sem simular série histórica de pontos",
+    "fonteEscudos": "ESPN CDN; URLs registradas em assets-manifest.csv"
+  }
+}

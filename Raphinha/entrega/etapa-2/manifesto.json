@@ -1,0 +1,92 @@
+[
+  {
+    "id": "Raphinha-Capa",
+    "file": "01-Capa.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "id": "Raphinha-Gancho",
+    "file": "02-Gancho.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "id": "Raphinha-Temporada",
+    "file": "03-Temporada.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "id": "Raphinha-Timeline-1",
+    "file": "04-Timeline-1.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "id": "Raphinha-Timeline-2",
+    "file": "05-Timeline-2.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "id": "Raphinha-Timeline-3",
+    "file": "06-Timeline-3.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "id": "Raphinha-Timeline-4",
+    "file": "07-Timeline-4.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "id": "Raphinha-Selecao",
+    "file": "08-Selecao.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "id": "Raphinha-Grafico",
+    "file": "09-Grafico.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "id": "Raphinha-Amostras",
+    "file": "10-Amostras.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "id": "Raphinha-Xavi",
+    "file": "11-Xavi.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "id": "Raphinha-Flick",
+    "file": "12-Flick.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "id": "Raphinha-Contexto",
+    "file": "13-Contexto.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "id": "Raphinha-Fechamento",
+    "file": "14-Fechamento.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "id": "Raphinha-Assinatura",
+    "file": "15-Assinatura.png",
+    "width": 1080,
+    "height": 1920
+  }
+]

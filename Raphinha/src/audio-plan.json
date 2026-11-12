@@ -1,0 +1,18 @@
+{
+  "music": {
+    "file": "audio/trap-andretti-idefk.mp3",
+    "original": "( Trap beat Sem Direitos Autorais ) Trap Andretti - IDEFK [pwH098QFUAQ] (2).mp3",
+    "sourceDurationSeconds": 145.031837,
+    "plannedTrimStartSeconds": 10,
+    "role": "Condução do ritmo, abaixo da narração",
+    "duckDuringVoice": true,
+    "softRecoveryInPauses": true,
+    "fadeOutAtEnd": true,
+    "regenerateMusicPulseFromThisTrack": true
+  },
+  "mix": {
+    "referenceIntegratedLufs": -16,
+    "voicePriority": true,
+    "status": "Mixagem V1 criada em public/audio/mix-v1.wav; relatório de medidas em review/v1/audio-verificacao.json"
+  }
+}

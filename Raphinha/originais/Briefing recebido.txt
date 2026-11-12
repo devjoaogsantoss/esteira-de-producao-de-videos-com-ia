@@ -1,0 +1,328 @@
+Vamos produzir o vídeo **“O paradoxo de Raphinha: por que o protagonismo do Barça não se repete na Seleção?”**, utilizando o fluxo e a estrutura já existentes neste workspace.
+
+**IMPORTANTE: a produção será dividida em três etapas com aprovação explícita. Comece somente pela etapa 1. Este prompt e o roteiro-base não representam aprovação prévia.**
+
+## 1. Contextualização do projeto
+
+Antes de começar:
+
+- Leia os AGENTS.md aplicáveis, o contexto do projeto, o briefing e a referência técnica.
+- Localize a pasta “Raphinha 2026”, a planilha e os arquivos relacionados.
+- Consulte os manuais de identidade visual e narrativa de dados.
+- Use as skills de Remotion já instaladas conforme necessário.
+- Aproveite componentes e padrões existentes, preservando outros vídeos e alterações do usuário.
+
+Siga as definições de Sportsmatch e Instaplaysss presentes nos manuais. Identifique o canal de publicação nos arquivos; pergunte se essa informação estiver ausente.
+
+Não recrie o projeto nem instale ferramentas sem necessidade.
+
+## 2. Referências e direção criativa
+
+Consulte a pasta **“referencias”**. Ela contém materiais de inspiração para vídeo e referências de design gráfico para conteúdo de estatísticas esportivas.
+
+Analise:
+- Composição e hierarquia dos layouts.
+- Aplicação de fotos, recortes, textos e gráficos.
+- Transições, movimentos de câmera e ritmo de cortes.
+- Entradas e saídas dos elementos.
+- Sincronização entre informação, movimento e áudio.
+
+**Quero transições muito semelhantes às referências em movimento, ritmo e linguagem**, adaptadas à identidade visual do projeto.
+
+Informe quais referências orientam as soluções propostas. Se não conseguir visualizar algum arquivo, explique a limitação.
+
+Este conteúdo combina **análise, estatísticas esportivas e hype**. Precisa gerar entusiasmo e destacar o protagonismo do jogador, sem exagerar conclusões ou inventar informações.
+
+**Os primeiros três segundos precisam ter um gancho forte.** Evite abertura institucional, vinheta longa ou introdução genérica.
+
+## 3. Objetivo editorial
+
+Investigar:
+
+**“O paradoxo de Raphinha: por que o protagonismo do Barça não se repete na Seleção?”**
+
+Pergunta central:
+
+**Quanto da diferença vem do próprio Raphinha e quanto vem das condições que cada equipe oferece para ele produzir?**
+
+Provocações que orientam a narrativa:
+- “A Seleção Brasileira recebe o mesmo Raphinha que o Barcelona?”
+- “A gente vê os gols, as assistências e o protagonismo no Barcelona. Mas, para entender o Raphinha da Seleção, precisa olhar além do placar.”
+- “Ele muda de camisa. Por que muda tanto de impacto?”
+
+Os dados permitem comparar produção. A explicação sobre função, contexto e treinadores deve ser apresentada como leitura tática a investigar, apoiada por lances e referências — não como causalidade comprovada pelas médias.
+
+## 4. Dados e correções
+
+O recorte começa na **temporada 2023/24, em agosto/setembro de 2023**, e segue até o parcial de 2026/27.
+
+Não precisamos levantar ou apresentar datas individuais dos jogos da Seleção para esta proposta. Mantenha claros os períodos de agregação informados pela coleta; não invente datas ausentes.
+
+Use a planilha disponível como base, considerando estas informações e correções:
+
+| Temporada | Equipe | Jogos | Gols | Assistências | Minutos | Titularidades |
+|---|---|---:|---:|---:|---:|---:|
+| 2023/24 | Barcelona | 37 | 10 | 13 | 1.950 | 25 |
+| 2023/24 | Brasil | 4 | 1 | 1 | 326 | 4 |
+| 2024/25 | Barcelona | 57 | 34 | 27 | 4.661 | 53 |
+| 2024/25 | Brasil | 12 | 4 | 1 | 866 | 10 |
+| 2025/26 | Barcelona | 33 | 21 | 8 | 2.194 | 27 |
+| 2025/26 | Brasil | 5 | 1 | 1 | 378 | 4 |
+| 2026/27 — parcial | Barcelona | 14 | 19 | 3 | 1.014 | **12** |
+| 2026/27 — parcial | Brasil | 12 | 1 | 2 | 679 | 7 |
+
+**A correção válida é: 12 titularidades em 14 jogos pelo Barcelona em 2026/27.** Desconsidere valores anteriores de 17 ou 1,5714 nesse campo.
+
+Definições:
+- Participações em gols = gols + assistências.
+- Participações por 90 minutos = participações ÷ minutos × 90.
+- Minutos por participação = minutos ÷ participações.
+- Calcule com os valores originais e arredonde apenas na exibição.
+- Use “participações em gols” no lugar de “gols produzidos”.
+- Não interprete os números como produção sem pênaltis: a coleta não separa esse dado.
+
+Valores de referência para conferir:
+
+| Temporada | Barcelona: participações/90 | Brasil: participações/90 |
+|---|---:|---:|
+| 2023/24 | 1,06 | 0,55 |
+| 2024/25 | 1,18 | 0,52 |
+| 2025/26 | 1,19 | 0,48 |
+| 2026/27 — parcial | 1,95 | 0,40 |
+
+Apresente o tamanho das amostras de forma legível. A normalização por 90 minutos não elimina diferenças de contexto nem a incerteza das amostras pequenas.
+
+Trate os números como dados fornecidos pelo usuário. Não os anuncie como estatísticas oficiais verificadas sem conferir as fontes.
+
+## 5. Temporada atual e timeline obrigatórias
+
+Quero **uma tela inteira dedicada à temporada atual de Raphinha**, além de uma animação gráfica da timeline das vítimas contra quem ele marcou ou deu assistência.
+
+Resumo da temporada 2026/27:
+- 14 jogos.
+- 12 titularidades.
+- 19 gols.
+- 3 assistências.
+- 1.014 minutos.
+- 22 participações em gols.
+- 1,57 participação por partida.
+- 1,95 participação por 90 minutos.
+- Uma participação a aproximadamente cada 46 minutos em campo.
+
+Não é necessário mostrar todos os indicadores. Priorize clareza e impacto.
+
+Timeline de 2026:
+
+| Data | Adversário | Gols | Assistências |
+|---|---|---:|---:|
+| 23/08 | Elche | 2 | 1 |
+| 27/08 | Athletic Bilbao | 1 | 0 |
+| 31/08 | Rayo Vallecano | 2 | 0 |
+| 06/09 | Valencia | 1 | 0 |
+| 09/09 | **Feyenoord** | 2 | 0 |
+| 13/09 | Levante | 0 | 2 |
+| 16/09 | Racing Santander | 3 | 0 |
+| 19/09 | Sevilla | 3 | 0 |
+| 25/10 | Real Madrid | 1 | 0 |
+| 31/10 | Alavés | 2 | 0 |
+| 03/11 | Aston Villa | 2 | 0 |
+
+Use **Feyenoord**, corrigindo a grafia da planilha.
+
+A timeline deve conter:
+- Data abaixo da linha.
+- Adversário identificado por nome e escudo, quando disponível.
+- Ícones distintos para gols e assistências.
+- Legenda clara.
+- Contadores acumulados sincronizados.
+
+Use ícones consistentes com a identidade, evitando emojis na arte final. Mostre poucas partidas por vez para preservar a legibilidade.
+
+As 11 partidas listadas somam 19 gols e 3 assistências. Elas não representam o calendário completo dos 14 jogos. Não deduza resultados ou produção das três partidas ausentes e não afirme que os hat-tricks ocorreram em jogos consecutivos do calendário completo.
+
+Se o espaçamento for uniforme, apresente como sequência das partidas listadas, sem sugerir uma escala temporal proporcional.
+
+## 6. Leitura tática fornecida pelo usuário
+
+Com Xavi, Raphinha atuava mais como ponta direita.
+
+Com Hansi Flick, passou a atuar com maior liberdade do meio para a frente: esquerda, direita, entrelinhas e centro do ataque. A ideia editorial é a de um **“todo-campista” ofensivo**.
+
+Use essa leitura para orientar a investigação e a escolha dos lances. Diferencie:
+- Estatísticas medidas.
+- Observações táticas.
+- Hipóteses sobre as causas da diferença.
+
+Não crie mapas de calor fictícios. Diagramas ilustrativos devem ser identificados como ilustrações táticas.
+
+## 7. Roteiro-base para desenvolver na etapa 1
+
+Duração inicial sugerida: **1min50s a 2min**, sujeita à avaliação de leitura, ritmo e quantidade de informação.
+
+### Tela 1 — Gancho | 0–3s
+
+Narração:
+“Ele muda de camisa. Por que muda tanto de impacto?”
+
+Visual previsto:
+Raphinha com os uniformes de Barcelona e Brasil. A troca de camisa acompanha a provocação.
+
+Texto:
+**MESMO RAPHINHA?**
+
+### Tela 2 — A dimensão da fase | 3–17s
+
+Narração:
+“No Barcelona, a temporada atual impressiona: 19 gols e três assistências em 14 jogos. São 22 participações em gols. Uma a cada 46 minutos em campo.”
+
+Visual previsto:
+Tela inteira dedicada ao jogador na temporada atual. Foto e números entram com hierarquia.
+
+Textos:
+**14 JOGOS**
+**19 GOLS + 3 ASSISTÊNCIAS**
+**46 MINUTOS POR PARTICIPAÇÃO**
+
+Identificar 2026/27 como temporada parcial. As 12 titularidades podem aparecer como informação secundária se ajudarem a composição.
+
+### Tela 3 — Timeline das vítimas | 17–35s
+
+Narração:
+“Elche, Athletic, Rayo… a lista cresce. Contra Racing Santander e Sevilla, dois hat-tricks. Contra o Levante, duas assistências. Ele aparece para finalizar e também para servir.”
+
+Visual previsto:
+Timeline das 11 partidas, com datas, adversários, ícones e contadores acumulados.
+
+Destacar os dois hat-tricks e a contribuição contra o Levante. Encerrar em:
+**19 GOLS · 3 ASSISTÊNCIAS**
+
+Avalie se 18 segundos permitem ler as 11 partidas. Proponha ampliar a duração ou ajustar a apresentação se necessário, sem reduzir excessivamente textos e escudos.
+
+### Tela 4 — O paradoxo | 35–48s
+
+Narração:
+“Mas a Seleção Brasileira recebe o mesmo Raphinha que o Barcelona? A gente vê os gols, as assistências e o protagonismo no clube. Para entender o Raphinha da Seleção, precisa olhar além do placar.”
+
+Visual previsto:
+A timeline dá lugar ao contraste Barcelona × Brasil.
+
+Texto:
+**O PROTAGONISMO MUDA DE CAMISA?**
+
+### Tela 5 — A distância nos números | 48–70s
+
+Narração:
+“Desde 2023/24, a produção por 90 minutos segue caminhos diferentes. No Barça, sobe de 1,06 para 1,95 participação em gol. No Brasil, passa de 0,55 para 0,40. O tempo em campo entra na conta. E a distância aumenta.”
+
+Visual previsto:
+Gráfico de duas linhas, revelado por temporada, com os valores da tabela comparativa.
+
+Título:
+**PARTICIPAÇÕES EM GOLS POR 90 MINUTOS**
+
+Use escalas coerentes, marcadores claros e identificação direta das equipes. Contextualize os minutos das amostras em apoio visual legível. Indique que 2026/27 é parcial.
+
+### Tela 6 — O que mudou ao redor dele? | 70–94s
+
+Narração:
+“Com Xavi, Raphinha atuava mais pela direita. Com Flick, ganhou liberdade: esquerda, direita, entrelinhas e chegando pelo centro. Um ‘todo-campista’ do meio para a frente. Quanto dessa diferença vem dele? E quanto vem das condições que cada equipe oferece para ele produzir?”
+
+Visual previsto:
+Campo tático comparando atuação mais concentrada pela direita com liberdade por diferentes zonas ofensivas.
+
+Textos:
+**COM XAVI**
+**COM FLICK**
+
+Depois:
+**O JOGADOR?**
+**O CONTEXTO?**
+
+Apoie a leitura com lances. Se os materiais forem insuficientes para sustentar a formulação, proponha uma redação mais precisa na etapa 1 e informe o que falta.
+
+### Tela 7 — Fechamento | 94–115s
+
+Narração:
+“Os números mostram a diferença de produção. Sozinhos, não explicam a causa. Mas a provocação fica: o Brasil está oferecendo condições para esse Raphinha aparecer? Ou espera a produção do Barça sem reproduzir o que faz ele funcionar?”
+
+Visual previsto:
+Raphinha com a camisa do Brasil, acompanhado dos elementos táticos apresentados.
+
+Texto final:
+**O BRASIL APROVEITA O RAPHINHA QUE TEM?**
+
+Sustentar a pergunta tempo suficiente para leitura.
+
+## 8. Fluxo obrigatório de aprovação
+
+### ETAPA 1 — Roteiro e planejamento textual
+
+Entregue para minha aprovação:
+1. Gancho dos primeiros três segundos.
+2. Sugestão de duração total, com justificativa.
+3. Roteiro das telas em texto, incluindo o conteúdo e o que aparece em cada tela.
+4. Narração organizada por cena.
+5. Narração completa em texto contínuo, pronta para gravação.
+6. Proposta textual de movimentos e transições, indicando as referências utilizadas.
+7. Lista objetiva de materiais disponíveis e faltantes.
+
+Revise o roteiro-base conforme os manuais, as referências e a legibilidade. Explique alterações relevantes.
+
+**PARE AO CONCLUIR A ETAPA 1.**
+Aguarde minha aprovação explícita das telas em texto, da duração e do roteiro de narração. Não produza o design final nem avance automaticamente.
+
+### ETAPA 2 — Telas visuais e design
+
+Somente após a aprovação da etapa 1:
+- Produza as telas estáticas para revisão.
+- Mostre a aplicação real dos textos, das fotos, dos escudos, dos ícones e dos gráficos.
+- Siga a identidade visual e as referências de design esportivo.
+- Apresente estados adicionais quando necessários para entender uma cena.
+- Verifique contraste, hierarquia, margens e legibilidade no formato final.
+
+Pode usar composições estáticas no Remotion para apresentar as telas. Não implemente ainda a versão animada final.
+
+**PARE AO CONCLUIR A ETAPA 2.**
+Aguarde minha aprovação do design.
+
+**Somente depois dessa aprovação eu fornecerei o arquivo de narração. Aguarde o áudio antes de começar a etapa 3.**
+
+### ETAPA 3 — V1 com narração e animação
+
+Somente após a aprovação visual e o recebimento da narração:
+- Ajuste as cenas ao tempo real do áudio.
+- Implemente animações e transições semelhantes às referências.
+- Sincronize textos, fotos, gráficos, ícones e contadores com a narração.
+- Preserve o gancho dos primeiros três segundos.
+- Revise a composição completa no Remotion Studio.
+
+Se o áudio exigir mudança substancial no roteiro ou no design aprovado, apresente a proposta antes de alterar.
+
+**ENTREGUE A V1 E PARE PARA APROVAÇÃO.**
+Disponibilize o preview completo com narração e animação. Aguarde minha avaliação e eventuais ajustes.
+
+Não considere a V1 aprovada automaticamente e não exporte o MP4 final sem solicitação.
+
+Pedidos de ajuste em qualquer etapa não significam aprovação para avançar. Revise e reapresente a etapa atual.
+
+## 9. Materiais que preciso fornecer
+
+Verifique primeiro os arquivos existentes no projeto e na pasta “referencias”.
+
+**Informe se precisa que eu forneça imagens, vídeos, escudos, fontes, logos ou qualquer outro conteúdo.** Para cada item faltante, indique:
+- O que é.
+- Em qual tela será utilizado.
+- Qual característica precisa ter.
+- Se é indispensável ou se existe uma alternativa com os materiais disponíveis.
+
+Para vídeos, descreva o lance ou movimento necessário. Para imagens, indique uniforme, enquadramento, qualidade e necessidade de recorte.
+
+Não trate uma referência visual como autorização automática para usar suas imagens ou trechos na peça final. Diferencie material de inspiração de material destinado à edição.
+
+Não espere o áudio nesta primeira etapa: ele será fornecido depois da aprovação das telas visuais.
+
+## 10. Organização e primeira ação
+
+Salve os documentos e arquivos nos locais previstos pelo projeto. Em cada entrega, informe onde visualizar o material e o que precisa de aprovação.
+
+**Comece agora somente pela ETAPA 1: contextualização, análise das referências, conferência dos dados, roteiro audiovisual, duração sugerida e levantamento dos materiais necessários.**

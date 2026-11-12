@@ -1,0 +1,27 @@
+# Dependências, modelos e builds locais
+**/node_modules/
+**/.cache/
+**/build/
+**/build-*/
+**/review/
+**/.git/
+
+# Credenciais e configurações privadas
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+.aws/
+.codex/
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Arquivos locais do sistema
+Thumbs.db
+.DS_Store
+*.log
+Publicacao-GitHub/

@@ -1,0 +1,13 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {bundle} from '@remotion/bundler';
+import {selectComposition,renderMedia} from '@remotion/renderer';
+const t=JSON.parse(fs.readFileSync('src/timing.json','utf8'));
+if(!t.voiceReady||!fs.existsSync('public/audio/narracao-final-2026.wav')||!fs.existsSync('public/audio/mix-final-2026.wav'))throw new Error('Falta a NOVA narração. O render final não aceita a fala antiga nem uma faixa vazia. Integre a nova locução com scripts/integrate-voice.mjs.');
+if(t.duration>1500)throw new Error('A duração excede 50 segundos.');
+console.log('Preparando composição Final com voz e mixagem.');
+const serveUrl=await bundle({entryPoint:path.resolve('src/index.ts'),outDir:path.resolve('build')});
+const composition=await selectComposition({serveUrl,id:'SerieB2026-Final'});
+let last=-1;
+await renderMedia({serveUrl,composition,codec:'h264',crf:18,pixelFormat:'yuv420p',audioCodec:'aac',audioBitrate:'320k',concurrency:2,outputLocation:'entrega/Sportsmatch-Instaplaysss-SerieB2026-FINAL.mp4',onProgress:({progress})=>{const n=Math.floor(progress*10);if(n>last){console.log(`Render final: ${n*10}%`);last=n;}}});
+console.log('MP4 final exportado.');

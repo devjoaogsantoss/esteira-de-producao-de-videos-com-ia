@@ -1,0 +1,11 @@
+{
+  "durationFrames":3690,
+  "durationSeconds":123,
+  "starts":{"cover":0,"hook":174,"season":264,"timeline":618,"selection":1295,"comparison":1563,"samples":2097,"xavi":2331,"flick":2518,"context":2754,"closing":3132,"ending":3630},
+  "cuts":[174,264,618,1295,1563,2097,2331,2518,2754,3132,3630],
+  "timelineArrivals":[21.05,21.95,22.75,24.55,25.2,26.05,29.9,30.85,35.25,36,36.85],
+  "timelineGroupStarts":[20.6,24.25,29.2,34.1],
+  "voiceFile":"audio/narracao-v3-original.mp3",
+  "mixFile":"audio/mix-v3.wav",
+  "pauses":[{"at":27,"seconds":2}]
+}
