@@ -8,7 +8,17 @@ A regra que ficou é simples: **primeiro as telas, depois o vídeo**. Eu reviso,
 
 Aqui está essa construção: projetos, referências, assets e versões dos vídeos sobre Raphinha, Série B e **Entre a Taça e a Degola**.
 
-- [Entre a Taça e a Degola — projeto e EP01](Entre-a-Taca-e-a-Degola/)
+- [Entre a Taça e a Degola — projetos EP01 e EP02](Entre-a-Taca-e-a-Degola/)
 - [Série B — referência visual V2](PLAYOFF%20ACESSO%20SERIE%20B-A/)
 - [Raphinha — projeto e revisões](Raphinha/)
 - [Como abrir e produzir](COMO_RODAR.md)
+
+## Atualização de 13/11/2026
+
+O EP02 sobre o Palmeiras de 2012 foi concluído e publicado. Estão incluídos o vídeo final, a narração, a trilha mixada, as fotos, os escudos, as telas, os códigos e os documentos de verificação.
+
+- [Entrega final do EP02](Entre-a-Taca-e-a-Degola/episodes/EP02-Palmeiras-2012/entrega/final/)
+- [Retrospectiva executiva — PDF](Retrospectiva-Executiva/Retrospectiva-Executiva.pdf)
+- [Retrospectiva executiva — PowerPoint editável](Retrospectiva-Executiva/Retrospectiva-Executiva.pptx)
+- [Base, método e limites das métricas](Retrospectiva-Executiva/LEIA-ME.md)
+- [Por que o consumo de tokens cresceu no EP02](Retrospectiva-Executiva/CONTEXTO-E-CONSUMO.md)

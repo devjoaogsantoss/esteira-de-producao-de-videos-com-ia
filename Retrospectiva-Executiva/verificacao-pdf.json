@@ -1,0 +1,82 @@
+[
+  {
+    "page": 1,
+    "items": 33,
+    "last": [
+      "A tese para a gestão: investir no sistema reutilizável e medir cada etapa.",
+      "",
+      "Resultados observacionais de quatro pautas, sem experimento controlado. Não há fatura individual por vídeo disponível."
+    ],
+    "outside": []
+  },
+  {
+    "page": 2,
+    "items": 50,
+    "last": [
+      "explicitamente.",
+      "",
+      "Aprendizado operacional documentado nos arquivos de revisão e montagem. Reutilização não elimina criação, análise de dados ou revisão humana."
+    ],
+    "outside": []
+  },
+  {
+    "page": 3,
+    "items": 47,
+    "last": [
+      "completo, com telas e V2/V3, levou 97,6 min.",
+      "",
+      "Duração final: Série B 49,8s; Raphinha 123s; EP01 59,7s; EP02 60,1s. Tempos excluem os intervalos entre turnos e não equivalem a horas de uma pessoa."
+    ],
+    "outside": []
+  },
+  {
+    "page": 4,
+    "items": 41,
+    "last": [
+      "créditos simulados.",
+      "",
+      "Não há teste que isole o efeito do modelo. Atribuir a melhoria apenas a “uma IA melhor” não é sustentado pelos registros. Modelos de revisão automática ficam fora desta análise."
+    ],
+    "outside": []
+  },
+  {
+    "page": 5,
+    "items": 63,
+    "last": [
+      "",
+      "¹ Tempo de execução do agente. ² Simulação Standard a preços de consulta (13/11/2026), não débito histórico nem fatura. Não inclui ElevenLabs, imagem, máquina ou trabalho humano. Fonte:",
+      "learn.chatgpt.com/docs/pricing"
+    ],
+    "outside": []
+  },
+  {
+    "page": 6,
+    "items": 36,
+    "last": [
+      "O aprendizado foi converter feedback em memória do projeto, não depender da memória da conversa.",
+      "",
+      "Custo monetário real por vídeo: não apurado. Para fechar o ROI, incluir plano/fatura, ElevenLabs, imagens, renderização, horas humanas e desempenho das publicações."
+    ],
+    "outside": []
+  },
+  {
+    "page": 7,
+    "items": 42,
+    "last": [
+      "",
+      "Meta de −20% é hipótese de planejamento, não tendência ajustada nem intervalo estatístico. Para 10 episódios: base 829 créditos; cenário −20% 664. Pressupõe reduzir o consumo ponderado",
+      "em 20%, sem mudar modelo, tarifas ou escopo."
+    ],
+    "outside": []
+  },
+  {
+    "page": 8,
+    "items": 40,
+    "last": [
+      "",
+      "Método: registros locais de 10–13/11/2026; respostas únicas por response_id, por turno/modelo. Exclui revisão automática, GitHub, consolidação de manuais e esta apresentação. Janela",
+      "completa e cortes constam na base."
+    ],
+    "outside": []
+  }
+]

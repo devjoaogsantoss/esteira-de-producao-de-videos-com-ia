@@ -1,4 +1,13 @@
-tipo,status
-fotos,pendente de fornecimento
-voz,pendente de roteiro aprovado
-logos,usar originais quando dispon?veis
+original,copia_de_trabalho,credito
+"rebaixamento 2.png",public/episodes/EP02/foto-01.png,@sportsmatch.br
+"rebaixamento 1.png",public/episodes/EP02/foto-02.png,@sportsmatch.br
+"capa rebaixamento.png",public/episodes/EP02/foto-03.png,@sportsmatch.br
+"capa palmeiras.png",public/episodes/EP02/foto-04.png,@sportsmatch.br
+"2427684-3298-rec.png",public/episodes/EP02/foto-05.png,@sportsmatch.br
+"s.glbimg.png",public/episodes/EP02/foto-06.png,@sportsmatch.br
+voz recebida,public/episodes/EP02/EP02_Narracao_Aprovada.mp3,fornecida pelo usuario
+escudos/sport.png,public/episodes/EP02/escudos/sport.png,ativo real
+escudos/figueirense.png,public/episodes/EP02/escudos/figueirense.png,ativo real
+escudos/atletico-go.png,public/episodes/EP02/escudos/atletico-go.png,ativo real
+escudos/flamengo.png,public/episodes/EP02/escudos/flamengo.png,ativo real
+palmeiras.png,public/episodes/EP02/escudos/palmeiras.png,reutilizado do EP01
