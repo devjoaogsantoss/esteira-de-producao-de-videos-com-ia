@@ -15,7 +15,7 @@ Abra `episodes/EP01-Gremio-Vasco-2026/entrega/telas-v3/index.html` no navegador.
 - `npm run render:final`: exporta o MP4 completo com voz.
 - `node scripts/make-captions.cjs`: gera legendas opcionais separadas.
 
-EP01: produção autorizada após V3. A galeria permanece como estudo visual, com cenas de 6s sem voz. A composição do filme usa tempos próprios alinhados à locução. EP02–04: dados e planejamento inicial; sem vídeos.
+EP01: produção autorizada após V3. A galeria permanece como estudo visual, com cenas de 6s sem voz. A composição do filme usa tempos próprios alinhados à locução. EP02: produção autorizada com montagem própria. EP03–04: dados e planejamento inicial; sem vídeos.
 
 Cada episódio tem briefing, dados, roteiro, storyboard, manifesto, revisões, assets/originais e entrega. Cópias servidas em public/episodes/EPxx. Marca, Poppins e trilha aprovadas compartilhadas em public.
 
@@ -25,4 +25,9 @@ Remotion 4.0.542, React 19.2.3. Dependências existentes reutilizadas por juncti
 
 O ZIP do projeto não inclui node_modules, builds, revisões históricas nem MP4s. Ao extrair em uma nova pasta, execute `npm ci`, `npm run check`, `npm run studio`. Os ativos de trabalho, a locução original, a mixagem e os tempos estão incluídos. Para regenerar tudo, use prepare:film, telas e render:final nessa ordem. A geração das telas também fornece a capa usada na entrega.
 
+
+
+## EP02 — Palmeiras 2012
+
+Abra episodes/EP02-Palmeiras-2012/entrega/telas-v1/index.html no navegador. Dez telas, estudos animados e locução recebida. Guia em episodes/EP02-Palmeiras-2012/GUIA-TELAS.md. Composições: EP02-Telas-Aprovacao e EP02-Estudo-Movimento. Comandos: npm run ep02:telas e npm run ep02:galeria. Produção autorizada após o ajuste do gráfico. Montagem de 60,1s em Entre-a-Taca-e-a-Degola-EP02; reprodução em episodes/EP02-Palmeiras-2012/entrega/final/Assistir-EP02.html. Comandos de produção: npm run ep02:prepare:film, npm run ep02:render:trecho e npm run ep02:render:final. Dados e método do traçado parcial documentados em docs/MONTAGEM-EP02.md.
 

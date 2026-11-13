@@ -9,7 +9,12 @@
     "galeria": "node scripts/build-gallery.cjs",
     "prepare:film": "node scripts/prepare-film-audio.cjs",
     "render:trecho": "node scripts/render-film.cjs --trecho",
-    "render:final": "node scripts/render-film.cjs"
+    "render:final": "node scripts/render-film.cjs",
+    "ep02:telas": "node scripts/render-ep02-telas.cjs",
+    "ep02:galeria": "node scripts/build-ep02-gallery.cjs",
+    "ep02:prepare:film": "node scripts/prepare-ep02-film-audio.cjs",
+    "ep02:render:trecho": "node scripts/render-ep02-film.cjs --trecho",
+    "ep02:render:final": "node scripts/render-ep02-film.cjs"
   },
   "dependencies": {
     "@huggingface/transformers": "4.2.0",

@@ -5,7 +5,80 @@
   "rodadas": 38,
   "brasileiro": 29.8,
   "copa": 81.8,
-  "queda": "36? rodada, 1?1 Flamengo",
-  "copaStatus": "campe?o invicto",
-  "origem": "Dados fornecidos pela Sportsmatch; sem nova apura??o"
+  "queda": {
+    "rodada": 36,
+    "adversario": "Flamengo",
+    "placar": "1×1"
+  },
+  "copaStatus": "campeão invicto",
+  "situacaoNaConquista": {
+    "recorte": "Em paralelo ao título da Copa do Brasil, conforme roteiro do usuário",
+    "posicaoBrasileirao": 18,
+    "pontos": 5,
+    "jogosDoClube": 7,
+    "rodadaDaCompeticao": null,
+    "origem": "Novo dado fornecido pelo usuário em 13/11/2026"
+  },
+  "origem": "Dados e print fornecidos pelo usuário; atribuição editorial ao @sportsmatch.br conforme pedido",
+  "roteiro": {
+    "status": "aprovado pelo usuário",
+    "versaoRecebida": "2026-11-13",
+    "duracao": "a definir pela gravação"
+  },
+  "creditoExibido": "Dados e análise: @sportsmatch.br",
+  "tabelaNoTitulo": [
+    {
+      "posicao": 17,
+      "clube": "Sport",
+      "pontos": 6,
+      "jogos": 7
+    },
+    {
+      "posicao": 18,
+      "clube": "Palmeiras",
+      "pontos": 5,
+      "jogos": 7
+    },
+    {
+      "posicao": 19,
+      "clube": "Figueirense",
+      "pontos": 5,
+      "jogos": 7
+    },
+    {
+      "posicao": 20,
+      "clube": "Atlético-GO",
+      "pontos": 1,
+      "jogos": 7
+    }
+  ],
+  "audio": {
+    "arquivo": "public/episodes/EP02/EP02_Narracao_Aprovada.mp3",
+    "duracao": 57.730563,
+    "codec": "mp3",
+    "sampleRate": 44100,
+    "channels": 1,
+    "velocidade": 1
+  },
+  "posicoesInformadas": {
+    "1": 7,
+    "2": 14,
+    "7": 18,
+    "11": 14,
+    "12": 16,
+    "17": 15,
+    "18": 16
+  },
+  "referenciaAdicionalZ4": {
+    "saidaInformada": 9,
+    "intervaloGeralAnterior": "7 a 38",
+    "natureza": "lista parcial; nao usar interpolacoes para recalcular o total"
+  },
+  "visualizacaoZ4": {
+    "totalMantido": 30,
+    "baseTotal": "roteiro e audio aprovados",
+    "pontos": "posicoes explicitas fornecidas; 7a rodada conforme tabela",
+    "tracejado": "ligacoes ilustrativas; nao uma serie completa de colocacoes",
+    "nota": "A lista parcial atualiza as posicoes antes nao informadas; nao atribuir posicoes exatas aos demais pontos."
+  }
 }

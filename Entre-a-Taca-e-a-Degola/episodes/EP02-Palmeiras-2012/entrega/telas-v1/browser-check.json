@@ -1,0 +1,11 @@
+{
+  "errors": [
+    "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+  ],
+  "checked": [
+    "local HTML opened",
+    "fonts",
+    "player loaded",
+    "Studio preview loaded"
+  ]
+}

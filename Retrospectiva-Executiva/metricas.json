@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-13",
+  "data": [
+    {
+      "name": "Série B",
+      "seconds": 49.8,
+      "minutes": 60.965983333333334,
+      "input": 15669514,
+      "cached": 15270656,
+      "output": 112509,
+      "models": {
+        "gpt-6.1-sol": {
+          "input": 15669514,
+          "cached": 15270656,
+          "output": 112509
+        }
+      },
+      "turns": 3,
+      "total": 15782023,
+      "cacheRate": 0.9745456049243135,
+      "credits": 86.24679,
+      "window": 87.04705,
+      "normalMinutes": 73.45299196787148,
+      "normalTokens": 19014485.542168677
+    },
+    {
+      "name": "Raphinha",
+      "seconds": 123,
+      "minutes": 97.61726666666667,
+      "input": 25405113,
+      "cached": 24956800,
+      "output": 167154,
+      "models": {
+        "gpt-6.1-sol": {
+          "input": 22369237,
+          "cached": 22045824,
+          "output": 140078
+        },
+        "gpt-6-astra": {
+          "input": 3035876,
+          "cached": 2910976,
+          "output": 27076
+        }
+      },
+      "turns": 11,
+      "total": 25572267,
+      "cacheRate": 0.9823534341295785,
+      "credits": 244.14911,
+      "window": 146.88008333333335,
+      "normalMinutes": 47.61817886178862,
+      "normalTokens": 12474276.585365854
+    },
+    {
+      "name": "EP01",
+      "seconds": 59.7,
+      "minutes": 43.17401666666667,
+      "input": 14400927,
+      "cached": 14215808,
+      "output": 91026,
+      "models": {
+        "gpt-6.1-sol": {
+          "input": 14400927,
+          "cached": 14215808,
+          "output": 91026
+        }
+      },
+      "turns": 5,
+      "total": 14491953,
+      "cacheRate": 0.9871453414075357,
+      "credits": 67.55197,
+      "window": 77.95358333333333,
+      "normalMinutes": 43.390971524288105,
+      "normalTokens": 14564776.88442211
+    },
+    {
+      "name": "EP02",
+      "seconds": 60.1,
+      "minutes": 36.85881666666666,
+      "input": 25111408,
+      "cached": 24734976,
+      "output": 70669,
+      "models": {
+        "gpt-6.1-sol": {
+          "input": 25111408,
+          "cached": 24734976,
+          "output": 70669
+        }
+      },
+      "turns": 7,
+      "total": 25182077,
+      "cacheRate": 0.985009522365293,
+      "credits": 98.32629,
+      "window": 75.48273333333333,
+      "normalMinutes": 36.79748752079866,
+      "normalTokens": 25140176.705490846
+    }
+  ],
+  "creditBasis": "Standard credit-equivalent at current official rates, not actual charges",
+  "sources": [
+    "https://learn.chatgpt.com/docs/pricing"
+  ],
+  "exclusions": [
+    "Automatic approval review",
+    "GitHub publication",
+    "Consolidation reports",
+    "Série B manual consolidation after video delivery",
+    "Current retrospective"
+  ],
+  "scope": "Completed primary turns in four explicit time ranges; includes tools/render waits within turns; excludes time between turns and human labor."
+}

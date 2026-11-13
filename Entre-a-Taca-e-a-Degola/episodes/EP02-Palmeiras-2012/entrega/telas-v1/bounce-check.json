@@ -1,0 +1,30 @@
+{
+  "before": [
+    {
+      "top": "930px",
+      "opacity": "1"
+    },
+    {
+      "top": "854.444px",
+      "opacity": "1"
+    },
+    {
+      "top": "778.889px",
+      "opacity": "0.333333"
+    }
+  ],
+  "after": [
+    {
+      "top": "900px",
+      "opacity": "1"
+    },
+    {
+      "top": "860px",
+      "opacity": "1"
+    },
+    {
+      "top": "906.667px",
+      "opacity": "1"
+    }
+  ]
+}
